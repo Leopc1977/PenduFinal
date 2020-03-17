@@ -10,9 +10,9 @@ namespace Pendu
     class Game
     {
 
-        List<string> Letters = new List<string>();
-        string motMystere;
-        int cmpCoup;
+        public List<string> Letters = new List<string>();
+        public string motMystere;
+        public int cmpCoup;
 
         public void Load()
         {
