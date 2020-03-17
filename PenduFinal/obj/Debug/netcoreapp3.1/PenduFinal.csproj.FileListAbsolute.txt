@@ -1,0 +1,13 @@
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\bin\Debug\netcoreapp3.1\PenduFinal.exe
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\obj\Debug\netcoreapp3.1\PenduFinal.csprojAssemblyReference.cache
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\obj\Debug\netcoreapp3.1\PenduFinal.AssemblyInfoInputs.cache
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\obj\Debug\netcoreapp3.1\PenduFinal.AssemblyInfo.cs
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\bin\Debug\netcoreapp3.1\PenduFinal.deps.json
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\bin\Debug\netcoreapp3.1\PenduFinal.runtimeconfig.json
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\bin\Debug\netcoreapp3.1\PenduFinal.runtimeconfig.dev.json
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\bin\Debug\netcoreapp3.1\PenduFinal.dll
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\bin\Debug\netcoreapp3.1\PenduFinal.pdb
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\obj\Debug\netcoreapp3.1\PenduFinal.csproj.CopyComplete
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\obj\Debug\netcoreapp3.1\PenduFinal.dll
+C:\Users\leoph\source\repos\PenduFinal\PenduFinal\obj\Debug\netcoreapp3.1\PenduFinal.pdb
